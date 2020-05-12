@@ -1,6 +1,32 @@
 @charset "UTF-8";
 
-html{
+.cover1{
+  background:url(../img/greendrink.png);
+  background-size:cover;
+}
+
+.cover{
+  background:url(../img/child-laugh.png);
+  background-size:cover;
+}
+
+.container{
+  background-color:white;
+  opacity:0.7;
+}
+
+.face{
+  height:90%;
+  width:90%;
+}
+
+
+
+
+
+
+
+/* html{
   font-size:100%;
 }
 
@@ -53,4 +79,4 @@ img{
   max-width:1100px;
   margin:0 auto;
   padding:0 4%;
-}
+} */
