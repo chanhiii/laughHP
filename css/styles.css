@@ -10,9 +10,9 @@
   background-size:cover;
 }
 
-.container{
+.container, .head{
   background-color:white;
-  opacity:0.7;
+  opacity:0.9;
 }
 
 .face{
